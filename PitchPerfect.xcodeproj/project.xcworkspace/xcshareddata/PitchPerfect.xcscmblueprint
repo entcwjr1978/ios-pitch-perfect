@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B05175779D0B17FDC299950ACE47E96FDA680434",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B05175779D0B17FDC299950ACE47E96FDA680434" : 0,
+    "D8277D86B214692D1CF942E2A8345574FFCBE5FD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E08B8185-F4FA-450A-9AF1-9EA4656E519E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B05175779D0B17FDC299950ACE47E96FDA680434" : "PitchPerfect\/",
+    "D8277D86B214692D1CF942E2A8345574FFCBE5FD" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PitchPerfect",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PitchPerfect.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/entcwjr1978\/ios-pitch-perfect.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B05175779D0B17FDC299950ACE47E96FDA680434"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/entcwjr1978\/ios-nd-geo-quiz.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D8277D86B214692D1CF942E2A8345574FFCBE5FD"
+    }
+  ]
+}
